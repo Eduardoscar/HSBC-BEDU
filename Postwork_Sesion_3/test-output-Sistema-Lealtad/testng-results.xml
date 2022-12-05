@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-03T15:54:35 CST" name="Default suite" finished-at="2022-12-03T15:54:35 CST" duration-ms="131">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T15:54:35 CST" name="Default test" finished-at="2022-12-03T15:54:35 CST" duration-ms="131">
+      <class name="Tests.TestSistemaLealtad">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="preConditions" finished-at="2022-12-03T15:54:35 CST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method is-config="true" signature="initialConditions()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="initialConditions" finished-at="2022-12-03T15:54:35 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialConditions -->
+        <test-method signature="verificarClienteConTarjeta()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarClienteConTarjeta" finished-at="2022-12-03T15:54:35 CST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarClienteConTarjeta -->
+        <test-method signature="verificarClienteSinTarjeta()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarClienteSinTarjeta" finished-at="2022-12-03T15:54:35 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarClienteSinTarjeta -->
+        <test-method signature="verificarGuardarCupon()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarGuardarCupon" finished-at="2022-12-03T15:54:35 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarCupon -->
+        <test-method signature="verificarNoGuardarCupon()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarNoGuardarCupon" finished-at="2022-12-03T15:54:35 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarNoGuardarCupon -->
+        <test-method signature="verificarSaldoEntre100Y150()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarSaldoEntre100Y150" finished-at="2022-12-03T15:54:35 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarSaldoEntre100Y150 -->
+        <test-method signature="verificarSaldoEntre50Y100()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarSaldoEntre50Y100" finished-at="2022-12-03T15:54:35 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarSaldoEntre50Y100 -->
+        <test-method signature="verificarSaldoMayorA150()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarSaldoMayorA150" finished-at="2022-12-03T15:54:35 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarSaldoMayorA150 -->
+        <test-method signature="verificarSaldoMenorA50()[pri:0, instance:Tests.TestSistemaLealtad@6ef888f6]" started-at="2022-12-03T15:54:35 CST" name="verificarSaldoMenorA50" finished-at="2022-12-03T15:54:35 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarSaldoMenorA50 -->
+      </class> <!-- Tests.TestSistemaLealtad -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

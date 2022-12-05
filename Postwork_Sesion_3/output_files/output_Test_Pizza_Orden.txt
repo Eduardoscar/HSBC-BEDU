@@ -1,0 +1,34 @@
+Bienvenido a la aplicación para ordenar pizza.
+
+Sigue las instrucciones por favor.
+
+
+¿Deseas pizza vegetariana (Y/N)?
+¿Deseas pizza vegetariana (Y/N)?
+PASSED: verificarOpcionVegAlPreguntarOpcionVeganaTrue
+PASSED: verificarMensajeDeInicioSeDespliega
+PASSED: verificarOpcionVeganaVerdadera
+PASSED: verificarGuardarIngrediente1ComoPimiento
+PASSED: verificarGuardarIngrediente1ComoPeperoni
+PASSED: verificarGuardarIngrediente2ComoJamon
+PASSED: verificarListaIngredientesVegetarianos
+PASSED: guardarIngredientesComoHongos
+PASSED: verificarListaIngredientesNoVegetarianos
+PASSED: verificarOpcionVegAlPreguntarOpcionVeganaFalse
+PASSED: verificarGuardarIngrediente3ComoEspinaca
+PASSED: verificarGuardarIngrediente1ComoOpcionInvalida
+PASSED: verificarGuardarIngrediente3ComoSalchicha
+PASSED: verificarGuardarIngrediente2ComoHongos
+PASSED: verificarOpcopnVeganaFalsa
+
+===============================================
+    Default test
+    Tests run: 15, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 15, Passes: 15, Failures: 0, Skips: 0
+===============================================
+

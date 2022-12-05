@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-03T15:38:05 CST" name="Default suite" finished-at="2022-12-03T15:38:05 CST" duration-ms="193">
+    <groups>
+    </groups>
+    <test started-at="2022-12-03T15:38:05 CST" name="Default test" finished-at="2022-12-03T15:38:05 CST" duration-ms="193">
+      <class name="Tests.TestPizzaOrden">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="preConditions" finished-at="2022-12-03T15:38:05 CST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method is-config="true" signature="initialConditions()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="initialConditions" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialConditions -->
+        <test-method signature="guardarIngredientesComoHongos()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="guardarIngredientesComoHongos" finished-at="2022-12-03T15:38:05 CST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guardarIngredientesComoHongos -->
+        <test-method signature="verificarGuardarIngrediente1ComoOpcionInvalida()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente1ComoOpcionInvalida" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente1ComoOpcionInvalida -->
+        <test-method signature="verificarGuardarIngrediente1ComoPeperoni()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente1ComoPeperoni" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente1ComoPeperoni -->
+        <test-method signature="verificarGuardarIngrediente1ComoPimiento()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente1ComoPimiento" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente1ComoPimiento -->
+        <test-method signature="verificarGuardarIngrediente2ComoHongos()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente2ComoHongos" finished-at="2022-12-03T15:38:05 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente2ComoHongos -->
+        <test-method signature="verificarGuardarIngrediente2ComoJamon()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente2ComoJamon" finished-at="2022-12-03T15:38:05 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente2ComoJamon -->
+        <test-method signature="verificarGuardarIngrediente3ComoEspinaca()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente3ComoEspinaca" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente3ComoEspinaca -->
+        <test-method signature="verificarGuardarIngrediente3ComoSalchicha()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarGuardarIngrediente3ComoSalchicha" finished-at="2022-12-03T15:38:05 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarGuardarIngrediente3ComoSalchicha -->
+        <test-method signature="verificarListaIngredientesNoVegetarianos()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarListaIngredientesNoVegetarianos" finished-at="2022-12-03T15:38:05 CST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarListaIngredientesNoVegetarianos -->
+        <test-method signature="verificarListaIngredientesVegetarianos()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarListaIngredientesVegetarianos" finished-at="2022-12-03T15:38:05 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarListaIngredientesVegetarianos -->
+        <test-method signature="verificarMensajeDeInicioSeDespliega()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarMensajeDeInicioSeDespliega" finished-at="2022-12-03T15:38:05 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarMensajeDeInicioSeDespliega -->
+        <test-method signature="verificarOpcionVegAlPreguntarOpcionVeganaFalse()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarOpcionVegAlPreguntarOpcionVeganaFalse" finished-at="2022-12-03T15:38:05 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarOpcionVegAlPreguntarOpcionVeganaFalse -->
+        <test-method signature="verificarOpcionVegAlPreguntarOpcionVeganaTrue()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarOpcionVegAlPreguntarOpcionVeganaTrue" finished-at="2022-12-03T15:38:05 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarOpcionVegAlPreguntarOpcionVeganaTrue -->
+        <test-method signature="verificarOpcionVeganaVerdadera()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarOpcionVeganaVerdadera" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarOpcionVeganaVerdadera -->
+        <test-method signature="verificarOpcopnVeganaFalsa()[pri:0, instance:Tests.TestPizzaOrden@22a637e7]" started-at="2022-12-03T15:38:05 CST" name="verificarOpcopnVeganaFalsa" finished-at="2022-12-03T15:38:05 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificarOpcopnVeganaFalsa -->
+      </class> <!-- Tests.TestPizzaOrden -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
