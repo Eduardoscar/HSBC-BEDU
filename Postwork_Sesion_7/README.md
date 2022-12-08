@@ -7,14 +7,14 @@
 ![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_init.png?raw=true)
 
 2. Validamos los archivos de configuración: `terraform validate`  
-![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_validate?raw=true)  
+![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_validate.png?raw=true)  
 
 3. Le damos formato a nuestros archivos: `terraform fmt`    
 ![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_fmt.png?raw=true)  
 
 4. Creamos la infrastructura `terraform apply`, con `terraform apply -auto-approve` nos saltamos las confirmaciones manuales (no usar en despliegues productivos)  
 ![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_apply_1.png?raw=true)  
-![Alt text](https://raw.githubusercontent.com/duardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_apply_2.png?raw=true)  
+![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/terraform_apply_2.png?raw=true)  
 
 5. Validamos que se crearon los recursos  
 ![Volumen](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_7/assets/Volumen_creado.png?raw=true)  
