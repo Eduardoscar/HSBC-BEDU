@@ -110,7 +110,7 @@ Nota: el Container id sera el que obtuvo con el comando anterior
 
 14.- Actualiza el navegador, donde podrás ver el sitio actualizado como se muestra en la imagen.
 
-![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_4/assets/iSite_actualizado.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/Eduardoscar/HSBC-BEDU/main/Postwork_Sesion_4/assets/Site_actualizado.png?raw=true)
 
 ---
 
